@@ -78,7 +78,7 @@ function ProjectList() {
             <div className="d-flex justify-content-center align-items-center mb-4">
           <img src='/moptro_logo-removebg-preview.png' alt="Logo" className="img-fluid" />
         </div>
-                <h2 className="text-center mt-5 mb-3">Dashboard</h2>
+                <h2 className="text-center mt-5 mb-3 specific-h2-class">Dashboard</h2>
                 <div className="card">
                 
                     <div className="card-header">
