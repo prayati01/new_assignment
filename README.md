@@ -31,22 +31,6 @@ To get started with the project, follow these steps:
 ## Features
 
 - User id :- admin
-- Password:- 11
+- Password:- test123@
 
-- User registration and login functionality with validation.
-- CRUD operations to manage data.
-- User-friendly interface using React and Bootstrap.
-- Axios for API communication.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## Acknowledgements
-
-- [React](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Axios](https://axios-http.com/)
-- [React Router](https://reactrouter.com/)
-
-### "👍 If you find this repository useful, a like would mean the world to us! Thank you for your support. ❤️"
