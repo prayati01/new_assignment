@@ -132,6 +132,12 @@ function ProjectList() {
                         
                     </div>
                 </div>
+                <img
+                    src="/Group_46_2x-removebg-preview.png" // Replace with the path to your image
+                    alt="Corner Image"
+                    style={{ position: 'absolute', bottom: '10px', right: '10px',border: '2px solid white', // Adding a white border
+                    borderRadius: '50%', }}
+                    />
             </div>
         </Layout>
     );
