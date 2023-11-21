@@ -1,0 +1,27 @@
+/* Login.css */
+*{
+    background-color: black;
+}
+
+/* Add styles to make the form background black */
+.card-body {
+    background-color: #000000;
+  }
+  
+div label {
+    /* Remove the box around the label */
+    border: none;
+    outline: none; /* Remove the outline */
+    /* Any other specific styles */
+  }
+  
+  /* If there's specific styling for the ::after pseudo-element */
+div label::after {
+
+    border: none;
+    outline: none;
+  }
+input:focus,
+input:valid {
+    background-color: unset; /* Removes filled background color */
+  }
